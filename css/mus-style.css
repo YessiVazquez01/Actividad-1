@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: url(../img/depositphotos_31425831-stock-photo-music-background.jpg);
+    color: aliceblue;
+}
+h1{
+    background: rgba(0, 0, 0, 0.911);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+p{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 20px;
+}
+.parrafo1{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: cursive;
+}
+.contenedor{
+    margin-top: 15px;
+    background: rgba(12, 7, 7, 0.87);
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.61);
+    margin-left: 5%;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+.titulo1-img{
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 24%;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(0,0,0,0.50);
+}
+.titulo2{
+    margin-left: 20px;
+}
+.titulo2-img{
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 30%;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(0,0,0,0.50);
+}
+.parrafo2{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: cursive;
+}
+.titulo3{
+    margin-left: 20px;
+}
+.titulo3-img{
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 30%;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(0,0,0,0.50);
+}
+.parrafo3{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: cursive;
+}
+.parrafo4{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+aside{
+    position: absolute;
+    background: rgba(12, 7, 7, 0.897);
+    padding: 10px;
+    display: flex;
+    top: 30%;
+    flex-direction: column;
+    left: 60%;
+    box-shadow: 10px 10px rgba(0,0,0,0.50);
+    border-radius: 10px;
+}
+.video{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contenedor3{
+    position: absolute;
+    background: rgba(12, 7, 7, 0.87);
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.61);
+    display: flex;
+    width: 520px;
+    height: 640px;
+    left: 58%;
+    top:200%;
+}
+.titulo4{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.parrafo5{
+    margin-top: 18px;
+    margin-left: 30px;
+    font-family: cursive;
+    margin-bottom: 50px;
+    padding-right: 30px;
+}
+.contenedor4{
+    position: absolute;
+    background: rgba(12, 7, 7, 0.87);
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.61);
+    display: flex;
+    width: 530px;
+    height: 450px;
+    left: 58%;
+    top:310%;
+}
+.titulo5{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.parrafo6{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: cursive;
+    margin-bottom: 50px;
+    padding-right: 30px;
+}
+footer{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 20px;
+}
